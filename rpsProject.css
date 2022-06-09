@@ -1,0 +1,39 @@
+body{
+  background-color: lightgreen;
+  color: black;
+}
+h1, h3{
+  text-align: center;
+}
+h3{
+  color: red;
+}
+#leftSide, #rightSide{
+  width: 50%;
+  height: 15%;
+  float: left;
+}
+.scoreboard1{
+  text-align: center;
+  position: absolute;
+  top: 175px;
+  left: 10px;
+  background-color: white;
+  width: 150px;
+  height: 125px;
+}
+#humanScoreboard, #computerScoreboard{
+  font-weight: bold;
+  text-align: center;
+  color: red;
+  font-size: larger;
+}
+.scoreboard2{
+  text-align: center;
+  position: absolute;
+  top: 175px;
+  right: 10px;
+  background-color: white;
+  width: 150px;
+  height: 125px;
+}
