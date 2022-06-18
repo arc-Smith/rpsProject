@@ -91,7 +91,7 @@ function displayCompetitor(competitor, side){
 
   switch(competitor){
     case "rock":
-      side.src = "https://images.unsplash.com/photo-1589694502732-74708bde4e3e?crop=entropy&cs=srgb&fm=jpg&ixid=MnwzMjM4NDZ8MHwxfHJhbmRvbXx8fHx8fHx8fDE2NTE2OTk2MTk&ixlib=rb-1.2.1&q=85";
+      side.src = "https://images.unsplash.com/photo-1543362992-be883130c5d8?crop=entropy&cs=tinysrgb&fm=jpg&ixid=MnwzMjM4NDZ8MHwxfHJhbmRvbXx8fHx8fHx8fDE2NTU1ODY4NDQ&ixlib=rb-1.2.1&q=80";
       break;
     case "paper":
       side.src = "https://images.unsplash.com/photo-1598268641072-2f1a869b43d3?crop=entropy&cs=tinysrgb&fm=jpg&ixid=MnwzMjM4NDZ8MHwxfHJhbmRvbXx8fHx8fHx8fDE2NTU1ODYxMjU&ixlib=rb-1.2.1&q=80";
