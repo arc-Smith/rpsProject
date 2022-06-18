@@ -94,7 +94,7 @@ function displayCompetitor(competitor, side){
       side.src = "https://images.unsplash.com/photo-1589694502732-74708bde4e3e?crop=entropy&cs=srgb&fm=jpg&ixid=MnwzMjM4NDZ8MHwxfHJhbmRvbXx8fHx8fHx8fDE2NTE2OTk2MTk&ixlib=rb-1.2.1&q=85";
       break;
     case "paper":
-      side.src = "https://images.unsplash.com/photo-1597338770339-9860acd8406e?crop=entropy&cs=srgb&fm=jpg&ixid=MnwzMjM4NDZ8MHwxfHJhbmRvbXx8fHx8fHx8fDE2NTE2OTQzMTY&ixlib=rb-1.2.1&q=85";
+      side.src = "https://images.unsplash.com/photo-1598268641072-2f1a869b43d3?crop=entropy&cs=tinysrgb&fm=jpg&ixid=MnwzMjM4NDZ8MHwxfHJhbmRvbXx8fHx8fHx8fDE2NTU1ODYxMjU&ixlib=rb-1.2.1&q=80";
       break;
     case "scissors":
       side.src = "https://images.unsplash.com/photo-1634225109865-7a7b6e4ef85c?crop=entropy&cs=srgb&fm=jpg&ixid=MnwzMjM4NDZ8MHwxfHJhbmRvbXx8fHx8fHx8fDE2NTE2OTQzNjI&ixlib=rb-1.2.1&q=85";
