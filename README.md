@@ -6,9 +6,9 @@ I designed and built this project to serve as a hands-on exercise for students i
 
 ## Educational Goals
 
+* **JavaScript**: Apply basic programming logic and handle user interactions.
 * **HTML**: Reinforce the fundamentals of structuring web content.
 * **CSS**: Practice styling and creating a visual layout.
-* **JavaScript**: Apply basic programming logic and handle user interactions.
 
 ---
 
