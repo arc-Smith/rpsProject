@@ -1,0 +1,2 @@
+After providing Web Development students with my HTML and CSS code:
+I guided the class through building out the rock, paper, scissors game functionality (i.e. allowing a human user to choose either rock, paper, or scissors and then go up against a randomly selected choice from the computer) to introduce the web development students to JavaScript and showcase how JavaScript can interact with HTML elements in the Document Object Model (DOM).
