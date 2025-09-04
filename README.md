@@ -14,6 +14,4 @@ I designed and built this project to serve as a hands-on exercise for students i
 
 ## View the Project
 
-You can view the live project by visiting its GitHub Pages site:
-
-https://arc-smith.github.io/rpsProject/
+You can view the live project by visiting its GitHub Pages site: https://arc-smith.github.io/rpsProject/
