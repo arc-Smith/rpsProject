@@ -1,2 +1,19 @@
-After providing Web Development students with my HTML and CSS code:
-I guided the class through building out the rock, paper, scissors game functionality (i.e. allowing a human user to choose either rock, paper, or scissors and then go up against a randomly selected choice from the computer) to introduce the web development students to JavaScript and showcase how JavaScript can interact with HTML elements in the Document Object Model (DOM).
+# Rock Paper Scissors Project
+
+I designed and built this project to serve as a hands-on exercise for students in a web development course. It was created to provide a working model that we could rebuild together, allowing students to apply key concepts in a guided, practical setting.
+
+---
+
+## Educational Goals
+
+* **HTML**: Reinforce the fundamentals of structuring web content.
+* **CSS**: Practice styling and creating a visual layout.
+* **JavaScript**: Apply basic programming logic and handle user interactions.
+
+---
+
+## View the Project
+
+You can view the live project by visiting its GitHub Pages site:
+
+https://arc-smith.github.io/rpsProject/
