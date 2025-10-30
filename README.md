@@ -1,4 +1,4 @@
-# Rock Paper Scissors Project
+# Rock Paper Scissors Web App
 
 <img width="1425" height="777" alt="Screenshot 2025-09-09 at 4 18 18 PM" src="https://github.com/user-attachments/assets/db62cef0-5d74-4b9a-a625-a59cdbada348" />
 
